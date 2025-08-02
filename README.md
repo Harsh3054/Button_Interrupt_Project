@@ -45,10 +45,7 @@ This project implements a custom GPIO driver for the STM32F407G-DISC1 board. It 
 ## Contributing
 Fork the repo, make improvements, and submit a PR!
 
-## License
-MIT License - See `LICENSE` file.
-
 ## Contact
-Questions? Reach me on LinkedIn or [your email].
+Questions? Reach me on LinkedIn.
 
 #EmbeddedSystems #STM32 #CProgramming
