@@ -16,7 +16,7 @@ This project implements a custom GPIO driver for the STM32F407G-DISC1 board. It 
 - STM32CubeIDE or similar IDE.
 
 ### Installation
-1. Clone the repo: `git clone https://github.com/yourusername/stm32_gpio_driver.git`
+1. Clone the repo: `git clone https://github.com/Harsh3054/Button_Interrupt_Project.git`
 2. Open in STM32CubeIDE.
 3. Build and flash to the board.
 
