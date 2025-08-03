@@ -49,3 +49,7 @@ Fork the repo, make improvements, and submit a PR!
 Questions? Reach me on LinkedIn.
 
 #EmbeddedSystems #STM32 #CProgramming
+
+## Demonstration
+https://github.com/user-attachments/assets/45d5737a-bb64-4151-ad5f-e34840ce5f7a
+
